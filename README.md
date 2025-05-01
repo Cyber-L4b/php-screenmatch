@@ -1,7 +1,5 @@
 # 🎬 ScreenMatch
 
-Projeto desenvolvido como parte da formação **"Aprenda a programar em PHP com Orientação a Objetos"** da Alura.
-
 ## 📌 Descrição
 
 O **ScreenMatch** é uma aplicação em PHP que simula um sistema de catálogo de filmes e séries, utilizando conceitos de Programação Orientada a Objetos (POO). O projeto foi construído com foco em boas práticas de código, organização e reutilização de componentes.
